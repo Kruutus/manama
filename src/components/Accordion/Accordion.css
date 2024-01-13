@@ -1,0 +1,30 @@
+.accordion:not(:last-child) {
+    border-bottom: 1px solid black;
+}
+
+.accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+  }
+  
+  .accordion-title:hover {
+    background-color: #f4ebe9;
+  }
+  
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+  
+  .accordion-content {
+    background-color: #f4ebe9;
+    color: black;
+    text-align: start;
+  }

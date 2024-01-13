@@ -1,0 +1,46 @@
+.event-card {
+    background-color: white;
+    padding-bottom: 2em;
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    transition: 0.3s;
+}
+
+.ec-title {
+    margin: unset;
+    margin-top: 0.5em;
+    font-weight: 500;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.1em;
+}
+
+.ec-description {
+    margin-top: unset;
+    font-weight: 300;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.ec-title,
+.ec-description {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+}
+
+.action-button {
+    border: 1px solid transparent;
+    margin-top: 1em;
+    background-color: #CA1313;
+    color: #e9dcdc;
+    cursor: pointer;
+    transition: border-color 0.25s;
+    font-family: 'Roboto', sans-serif;
+    padding: 1em 2em;
+}

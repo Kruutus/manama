@@ -1,0 +1,235 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav {
+  padding: 1em;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 12em;
+  @media screen and (max-width: 768px) {
+    width: 9em;
+  }
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.max-width {
+  max-width: 1280px;
+}
+
+.white {
+  background-color: white;
+}
+
+.transparent {
+  background-color: transparent;
+}
+
+.whiteFont {
+  color: white;
+}
+
+.blackFont {
+  color: black;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+.nav-button {
+  margin-right: 1em;
+  @media screen and (max-width: 768px) {
+    margin-right: 2em;
+  }
+  background: unset;
+  border: unset;
+  cursor: pointer;
+}
+
+.nav-anchor {
+  color: #CA1313;
+  font-size: 1.1em;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.3s;
+  margin-right: 4em;
+  @media screen and (max-width: 768px) {
+    margin-right: 2em;
+    
+  }
+}
+
+.nav-anchor:hover {
+  color: #AB0F0F;
+}
+
+.hero {
+  background: linear-gradient(
+    rgba(0, 0, 0, 0), 
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0)
+  ), url("./assets/Hero3.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  @media screen and (max-width: 768px) {
+    width: 100vw;
+  }
+}
+
+.interactives-container {
+  margin: auto;
+    display: flex;
+    justify-content: space-between;
+    @media screen and (max-width: 768px) {
+      width: 100%;
+      flex-direction: column;
+    }
+}
+
+.interactives-card {
+  flex: 1;
+}
+
+.faq {
+  background-color: white;
+  padding: 3em 3em 5em;
+}
+
+.main-description {
+  width: 50%;
+  font-size: 4rem;
+  color: #e9dcdc;
+  line-height: 1.3;
+  margin-top: 35vh;
+  text-shadow: 1px 1px 2px black;
+  @media screen and (max-width: 768px) {
+    width: 80%;
+    font-size: 2.6rem;
+    margin-top: 30vh;
+  }
+}
+
+.upcoming-events-section {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0), 
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0)
+  ), url("./assets/chainbridge.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.news-title {
+  text-align: start;
+  @media screen and (max-width: 768px) {
+    text-align: center;
+    
+  }
+  font-family: "Roboto", sans-serif;
+  font-size: 2em;
+}
+
+.news-container {
+  @media screen and (min-width: 769px) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  max-width: 1280px;
+  width: 100%;
+}
+
+.button {
+  font-family: 'Roboto', sans-serif !important;
+  border: 1px solid transparent;
+  padding: 1em 2em;
+  font-size: 0.7em;
+  @media screen and (max-width: 768px) {
+    font-size: 1em;
+  }
+  font-weight: 300;
+  background-color: #CA1313;
+  color: #e9dcdc;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-bottom: 2em;
+}
+
+.button:hover {
+  background-color: #AB0F0F;
+}
+
+.button:active {
+  background-color: #8E0D0D;
+}
+
+.footer-container {
+  margin: auto;
+  padding: 3em;
+  @media screen and (min-width: 769px) {
+    display: flex;
+  }
+}
+
+.footer-logo-container {
+  width: 14em;
+  @media screen and (max-width: 768px) {
+    margin: auto;
+  }
+}
+
+.article-title {
+  color: black;
+    max-width: 50%;
+    @media screen and (max-width: 768px) {
+      max-width: 70%;
+    }
+    margin: auto;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    text-align: start;
+}
+
+.article-img {
+  width: 100vw; 
+  max-width: 1280px;
+  object-fit: cover;
+}

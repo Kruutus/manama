@@ -1,0 +1,32 @@
+.card {
+    padding: 3em 2em;
+    margin: 2em 1em;
+    background-color: white;
+    color: black;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.card:active {
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+
+.icon {
+    width: 3em;
+    stroke-width: 1;
+}
+
+p {
+    margin: unset;
+    text-align: center;
+    margin-top: 1em;
+}

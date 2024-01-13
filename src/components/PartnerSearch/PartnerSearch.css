@@ -1,0 +1,31 @@
+.partner-search-section {
+    max-width: 1280px;
+    margin: auto;
+    padding: 2em 2em 4em;
+}
+
+.partner-search-section h1 {
+    text-align: start;
+    color: black;
+}
+
+.partner-search-section img {
+    max-width: 100%;
+    @media screen and (min-width: 769px) {
+        float: right;
+        max-width: 40%;
+        padding-left: 3em;
+    }
+}
+
+.partner-search-section-description {
+    color: black;
+    text-align: start;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2em;
+    @media screen and (max-width: 768px) {
+        width: 100%;
+        margin-top: 1em;
+    }
+    line-height: 1.7em;
+}

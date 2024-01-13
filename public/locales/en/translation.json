@@ -1,0 +1,103 @@
+{
+    "contactUs": "Contact Us",
+    "home": {
+      "title": "We build a business bridge between Bahrain and Hungary",
+      "eventButton": "UPCOMING EVENTS"
+    },
+    "interactives": {
+      "introduction": "Introduction",
+      "partnerFinder": "GCC Partner Search",
+      "forums": "Business forum & B2B meeting",
+      "networking": "Business network events",
+      "countries": "GCC info",
+      "calendar": "Event calendar"
+  },
+  "news": {
+    "title": "Latest news"
+  },
+  "faq": {
+    "title": "About us",
+    "who": {
+      "title": "Who are we?",
+      "description": "We are Hungarian Businessmen who live in Bahrain and helped countless win-win deals in the last years between businesses from Bahrain and Hungary, who made long term cooperation and friendship."
+    },
+    "what": {
+      "title": "What do we do?",
+      "description": "We organize specific networking events where we select thrustful suppliers from Hungary and connect with Bahrain’s decision makers who are looking for solutions to their problems."
+    },
+    "how": {
+      "title": "How do we do it?",
+      "description": "We have a distributed network in both countries of trusted partners."
+    }
+  },
+  "upcoming": {
+    "title": "Upcoming events",
+    "eventTitles": {
+      "businessDevelopment": "Hungary & Bahrain Business Development",
+      "events2024": "2024 Event Overview"
+    }
+  },
+  "past": {
+    "eventTitles": {
+      "networkingEvent": "BAHRAINI- HUNGARIAN BUSINESS NETWORKING EVENT",
+      "medicalConference": "BAHRAIN- HUNGARY MEDICAL CONFERENCE & EXPO"
+    }
+  },
+  "footer": {
+    "title": "DETAILS"
+  },
+  "introduction": {
+    "title": "INTRODUCTION",
+    "description-1": "Our agency’s mission is to assume the role of an authoritative intermediary – in facilitating the cultivation of mutually beneficial business collaborations – between Bahrain, the GCC (Gulf Cooperation Council) Nations and Hungary. <br /><br /> As a result of my residency and occupational engagement in Bahrain since 2016, I have acquired an extensive and nuanced understanding of the country and the region at multiple levels, while simultaneously building a network of reliable players in the economic sphere, ranging from small to large corporations of diverse economic domains. <br /> <br /> Drawing on my extensive familiarity with the customs, legal regulations, and the latest market trends of both Hungary and the Gulf region, as well as trusted and well-established business connections <br /> <br />– I am eager to devote my competency and expertise in the local landscape to enhance Your business prospects within the regional market.",
+    "description-2": "Our commitment to achieving this objective involves facilitating Your presence in the market, forging valuable connections through networking, and linking Your organization/enterprise with appropriate and promising collaborative ventures. <br /> <br /> I commenced my journey of building a regional network during the nascent stage of my career in 2004, when I relocated to London soon after Hungary’s accession to the European Union. As the head of my initial venture in the fitness industry, I engaged with professionals from diverse domains worldwide, establishing a broad range of connections from the outset. <br /> <br /> Within a few years, I transitioned into the realm of property development and have since operated as a thriving entrepreneur in the lucrative buy-to-let sector. Following the Brexit referendum in 2016, I felt compelled to explore fresh horizons, and acting on my intuition, I relocated to Bahrain. Recognizing the significant potential of the market, I founded the Bahrain-Hungary Relations export promotion agency with fervor and a profound sense of purpose. <br /> <br /> Currently, we maintain active collaborations with over a hundred companies, and we firmly believe that the opportunities lie open to us to effectively showcase the premium quality of Hungarian expertise, as well as the cutting-edge innovations and technologies that our nation has to offer to the world. <br /> <br /> With warm regards, I am looking forward to the prospect of welcoming You as our esteemed collaborative partner in the near future! <br /> <br /> Tamás Hovány <br /> Chairman & CEO <br /> Bahrain & Hungary-Relations"
+  },
+  "partnerSearch": {
+    "title": "GCC PARTNER SEARCH",
+    "description": "Our objective is to foster business collaborations between suitable partners, leading to the creation of economic value with mutual benefits. <br /> <br /> We offer customized meeting solutions that are tailored to Your organization’s strategic goals and the unique requirements of the industry through a detailed evaluation process and by leveraging our extensive professional network. <br /> <br /> From business negotiations to administrative procedures and legal assistance, we are committed to delivering a suite of comprehensive first rate services to support all facets of Your successful business operations or intellectual property distribution in Bahrain and the Gulf region/GCC Nations. <br /> <br /> We provide our professional services with a success fee structure based on a percentage of the proceeds from an efficient contract conclusion, ensuring our commitment to Your business prosperity. <br /> <br /> Please furnish us with a brief overview of your enterprise/organization so that we may contact you promptly. Thank you."
+  },
+  "forum": {
+    "title": "BUSINESS FORUM & B2B MEETING",
+    "description-1": "Our multisectoral and sector-specific business forums provide a professional platform for in-person engagement, fostering networking opportunities and facilitating the exchange of innovative ideas among key economic players, emerging businesses and distribution companies in Bahrain, the GCC Nations, and Hungary. <br /> <br /> These forums offer a distinct opportunity for Your organization to deliver public presentations in the presence of media, gaining a comprehensive insight into the current regional economic landscape and prospects of their respective sectors.",
+    "description-2": "We also dedicate our expertise to assist Hungarian companies in achieving successful negotiations, trades, and intellectual property license agreements with the relevant market players of Bahrain and the GCC Nations through our expertly organized B2B meetings. <br /> <br /> Our events may be free or require a participation fee, depending on their volume and scope. For more information on a specific event, please feel free to contact us."
+  },
+  "networking": {
+    "title": "BUSINESS NETWORK EVENTS",
+    "description": "Our business networking events offer a distinguished platform for You to gain a comprehensive insight into the economic situation and latest market trends of Bahrain and the GCC Nations, while exploring lucrative business opportunities within a variety of formal and informal settings. <br /> <br /> Kindly be advised that our events are subject to fees to cover necessary expenses. For more details on the pricing and registration of a specific event, please feel free to contact us."
+  },
+  "countries": {
+    "title": "GCC INFO",
+    "description": "Located in the Persian Gulf region, The GCC Nations (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates) are among the fastest-growing, most dynamic economies in the world. The oil and gas sector accounts for a significant portion of the GDP in each of the countries, however in recent years, they have been expanding the range of industries and sectors within their economies by investing considerably in non-oil sectors, such as healthcare, education, tourism, and technology. <br /> <br /> With a firm commitment to pursue a comprehensive strategy of economic diversification and transitioning to carbon-neutral economies, they are intented to place particular emphasis on developing sustainable and knowledge-based industries. <br /> <br /> The GCC Nations are actively working towards greater regional integration, with initiatives such as the Gulf Cooperation Council Customs Union and the Gulf Common Market to create a more seamless and efficient business environment within the region. <br /> <br /> Similarly to the European Union, the GCC Nations have therefore implemented a uniform product authorization procedure, making it easier for businesses to navigate the regulatory landscape in the region. This procedure aims to ensure that products meet the necessary safety, health, and environmental requirements, while also simplifying the process of selling goods in the region.",
+    "gcc": {
+      "bahrain": {
+        "title": "BAHRAIN",
+        "description": "Bahrain boasts a diversified, growing economy with a focus on developing key sectors such as financial services, manufacturing and tourism, as well as improving infrastructure and transportation systems. <br /> <br /> Recent market trends in Bahrain show a significant growth in the technology sector with many startups and innovation centers emerging in the country. The country’s main economic objectives include achieving sustainable economic growth, diversifying the economy, and reducing dependence on oil revenues. <br /> <br /> Bahrain has a favorable geographic location that offers easy access to the larger Gulf Cooperation Council (GCC) market, making it a strategic hub for businesses. With a stable political environment and a supportive regulatory framework, law taxes and a skilled workforce, Bahrain is committed to attracting foreign investment and support entrepreneurship. <br /> <br /> The country has implemented a streamlined and efficient process for registering and licensing businesses, which includes online portals and a one-stop-shop for company registration. Additionally, the Bahrain Economic Development Board provides support to businesses throughout the entire process, from initial setup to ongoing operations."
+      },
+      "kuwait": {
+        "title": "KUWAIT",
+        "description": "Kuwait’s economy is heavily reliant on oil exports, which account for around 60% of its GDP. The New Kuwait Vision 2035 aims to diversify the economy by investing in key sectors such as healthcare, education, renewable energy, and reduce dependence on oil revenues. <br /> <br /> The current government has implemented various initiatives to improve the business climate, support startups and entrepreneurship, including launching an e-government platform to streamline procedures and reduce bureaucracy. <br /> <br /> One of the most notable programs is the establishment of the Kuwait National Fund for SME’s Development, which provides financial support and technical assistance to small and medium-sized enterprises. Kuwait offers a favorable business environment, characterized by a strategic location, a highly skilled workforce, and robust infrastructure."
+      },
+      "oman": {
+        "title": "OMAN",
+        "description": "In recent years, Oman has faced economic challenges due to declining oil prices and production. The current government is working towards diversifying the economy by investing in sectors such as tourism, fisheries, and logistics. <br /> <br /> In addition to the growing focus on renewable energy, Oman has also been exploring the potential of developing its mining and minerals sector, particularly in copper, chromite, and gypsum. <br /> <br /> The country has implemented various measures to support foreign entrepreneurship, including offering tax incentives, providing access to financing, and creating a more business-friendly environment by making efforts to reduce bureaucracy and streamline business registration procedures."
+      },
+      "qatar": {
+        "title": "QATAR",
+        "description": "Qatar has a high-income economy and one of the fastest-growing economies in the world. The country has significant oil and gas reserves, and the government is actively working to diversify the economy and reduce reliance on hydrocarbon exports. <br /> <br /> The latest market trends show continued growth in the finance, construction and tourism sectors. Having hosted the 2022 FIFA World Cup has spurred significant infrastructure development and investment in the country. <br /> <br /> Qatar presents a business-friendly environment with a streamlined regulatory system, offering incentives such as tax exemptions, land grants and free zones to encourage international businesses to set up operations in the country."
+      },
+      "saudi": {
+        "title": "SAUDI ARABIA",
+        "description": "Saudi Arabia’s stock market (Tadawul) in recent years has been one of the best-performing markets in the world. The government has undertaken major economic reforms to diversify its economy and reduce its reliance on oil (approximately 40% of the country’s GDP), developing new sectors such as tourism and entertainment. <br /> <br /> One of the most significant initiatives in this regard is the Vision 2030 plan, which aims to transform Saudi Arabia into a global investment powerhouse and a hub connecting three continents – Asia, Europe, and Africa. <br /> <br /> Saudi Arabia offers a highly-skilled workforce and has introduced several initiatives aimed at promoting entrepreneurship, including the establishment of several entrepreneurship centers, the launch of various funding programs and the introduction of streamlining procedures."
+      },
+      "emirates": {
+        "title": "UNITED ARAB EMIRATES", 
+        "description": "The United Arab Emirates (UAE) has a highly diversified and open economy with a well-developed infrastructure and advanced technology. While the oil and gas sector still plays a significant role in driving economic growth, the country has made significant efforts to diversify its economy and reduce its dependence on oil. <br /> <br /> In recent years UAE has set ambitious goals to develop a knowledge-based economy with a focus on several key sectors, such as renewable energy, technology, tourism, and healthcare. <br /> <br /> The country offers several advantages for businesses, such as a strategic location, various free zones, a favorable tax environment and a highly skilled workforce. The government has taken steps to promote entrepreneurship and innovation through the establishment of various innovation centers, incubators, and accelerators."
+      }
+    }
+  },
+  "calendar": {
+    "title": "PAST AND UPCOMING EVENTS",
+    "gallery": "GALLERY"
+  },
+  "privacy": "Privacy policy",
+  "underConstruction": "To be updated soon"
+}

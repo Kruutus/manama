@@ -1,0 +1,64 @@
+.countries-top-section {
+    max-width: 1280px;
+    margin: auto;
+    padding: 2em;
+}
+
+.countries-top-section h1,
+.bahrain-section h1,
+.kuwait-section h1,
+.oman-section h1,
+.qatar-section h1,
+.saudi-section h1,
+.emirates-section h1 {
+    text-align: start;
+    color: black;
+}
+
+.countries-top-section img {
+    max-width: 100%;
+    @media screen and (min-width: 769px) {
+        float: right;
+        max-width: 40%;
+        padding-left: 3em;
+    }
+}
+
+.countries-top-section-description {
+    color: black;
+    text-align: start;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2em;
+    line-height: 1.7em;
+}
+
+.bahrain-section,
+.oman-section,
+.saudi-section {
+    max-width: 1280px;
+    margin: auto;
+    padding: 2em;
+    background-color: #F8F8F8;
+}
+
+.kuwait-section,
+.qatar-section,
+.emirates-section {
+    max-width: 1280px;
+    margin: auto;
+    padding: 2em;
+}
+
+.bahrain-section-description,
+.kuwait-section-description,
+.oman-section-description,
+.qatar-section-description,
+.saudi-section-description,
+.emirates-section-description {
+    color: black;
+    text-align: start;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2em;
+    margin: auto;
+    line-height: 1.7em;
+}

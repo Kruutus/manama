@@ -1,0 +1,103 @@
+{
+    "contactUs": "Lépjen velünk kapcsolatba",
+    "home": {
+        "title": "Üzleti hidat építünk Bahrein és Magyarország között",
+        "eventButton": "KÖZELGŐ ESEMÉNYEK"
+      },
+    "interactives": {
+        "introduction": "Bemutatkozás",
+        "partnerFinder": "GCC Partnerkereső",
+        "forums": "Üzleti fórumok & B2B találkozók",
+        "networking": "Üzleti networking események",
+        "countries": "GCC Országok",
+        "calendar": "Eseménynaptár"
+    },
+    "news": {
+      "title": "Legfrissebb hírek"
+    },
+    "faq": {
+      "title": "Rólunk",
+      "who": {
+        "title": "Kik vagyunk?",
+        "description": "Magyar üzletemberek vagyunk, akik Bahreinben élnek, és az elmúlt években számtalan win-win üzletet segítettünk bahreini és magyarországi vállalkozások között, akik hosszú távú együttműködést és barátságot kötöttek."
+      },
+      "what": {
+        "title": "Mit csinálunk?",
+        "description": "Konkrét networking rendezvényeket szervezünk, ahol lendületes beszállítókat választunk ki Magyarországról, és kapcsolatba lépünk Bahrein döntéshozóival, akik megoldást keresnek problémáikra."
+      },
+      "how": {
+        "title": "Hogy csináljuk?",
+        "description": "Megbízható partnereink elosztott hálózatával rendelkezünk mindkét országban."
+      }
+    },
+    "upcoming": {
+      "title": "Közelgő események",
+      "eventTitles": {
+        "businessDevelopment": "Magyarország & Bahrein Üzleti Fejlődés",
+        "events2024": "2024 Eseményáttekintő"
+      }
+    },
+    "past": {
+      "eventTitles": {
+        "networkingEvent": "BAHREINI- MAGYAR ÜZLETI HÁLÓZATOSÍTÁSI RENDEZVÉNY",
+        "medicalConference": "BAHREIN-MAGYARORSZÁGI ORVOSI KONFERENCIA & EXPO"
+      }
+    },
+    "footer": {
+      "title": "RÉSZLETEK"
+    },
+    "introduction": {
+      "title": "BEMUTATKOZÁS",
+      "description-1": "Egyesületünk célkitűzése az Öböl Menti Együttműködési Tanács országai (Gulf Cooperation Council / GCC), köztük elsősorban a bahreini és a magyar szervezetek közötti eredményes üzleti együttműködések és partnerségek létrejöttének előmozdítása és széleskörű szakmai támogatása. <br /><br /> Bahreini működésünket 2016-ban kezdtük meg, melynek során értékes és megbízható üzleti kapcsolatrendszert sikerült felépítenünk a legkülönbözőbb gazdasági ágazatok szereplőivel, a kisebb start-up cégektől egészen a legnagyobb vállalatokig. <br /><br /> Mindennek köszönhetően mára egyedülálló szakértelemmel rendelkezünk a Bahreini Királyság és a GCC országok gazdasági működése, jogrendszere és az aktuális piaci trendek terén.",
+      "description-2": "Világszerte és a térségben kiterjedt üzleti kapcsolatrendszerem húsz éves szakmai pályafutásomnak köszönhetem, amely 2004-ben, Londonban, első, fitneszipari vállalkozásom elindításával kezdődött. Néhány évvel később áttértem az ingatlanfejlesztés területére, ahol a mai napig sikeresen tevékenykedem. A 2016-ban történt Brexit-népszavazást követően új távlatokat keresve és megérzéseimre hallgatva a Bahreini Királyságba költöztem. Az ígéretes piaci lehetőségekben bízva teljes elkötelezettséggel megalapítottuk exportösztönző ügynökségünket, a Bahreini – Magyar Kapcsolatok, Barátság és Üzleti Egyesületet. <br/><br /> Jelenleg több mint száz céggel működünk aktívan együtt, és meggyőződésünk, hogy közösen új kapukat nyithatunk a a kiváló minőségű magyar termékek és szolgáltatások, illetve az élvonalbeli innovációk és technológiák eredményes térségbeli értékesítése előtt. <br /><br /> Reméljük, hogy a közeljövőben Önt is nagyra becsült együttműködő partnerünkként üdvözölhetjük! <br /><br /> Hovány Tamás, elnök <br /> Bahreini – Magyar Kapcsolatok, Barátság és Üzleti Egyesület"
+    },
+    "partnerSearch": {
+      "title": "GCC PARTNERKERESŐ",
+      "description": "Egyesületünk célja a bahreini vagy Öböl-térségbeli és a magyar szervezetek közötti, kölcsönösen eredményes, értékteremtő üzleti együttműködések létrejöttének előmozdítása. <br /><br /> Átfogó értékelési folyamat alapján- az egyedi stratégiai céloknak és a helyi iparági követelményeknek megfelelő, személyre szabott bemutatkozási lehetőséget és partnerkeresési szolgáltatást biztosítunk az Ön cége számára. <br /><br /> Küldetésünknek tartjuk, hogy az üzleti tárgyalásoktól az adminisztratív eljárásokon át a jogi segítségnyújtásig, szakértelmünket és kapcsolatrendszerünket a magyar szervezetek sikeres bahreini vagy térségbeli működése, illetve szellemi tulajdonának értékesítése szolgálatába tudjuk állítani. <br /><br /> Partnerkereső szolgáltatásunkat az eredményes szerződéskötésből származó bevétel százalékos arányán alapuló sikerdíj-struktúrával nyújtjuk, biztosítva elkötelezettségünket az Ön szervezetének sikeres jövőbeli üzleti működése mellett. <br /><br /> Kérjük, adjon rövid áttekintést vállalkozásáról/szervezetéről, hogy felvehessük Önnel a kapcsolatot!"
+    },
+    "forum": {
+      "title": "ÜZLETI FÓRUMOK & B2B TALÁLKOZÓK",
+      "description-1": "Az általunk szervezett multiszektorális és ágazatspecifikus üzleti fórumok és innovatív ötletbörzék egyedülálló bemutatkozási, kapcsolatépítési és médiamegjelenési lehetőséget biztosítanak a magyar és a bahreini vagy Öböl-térségbeli kis-, és nagyvállalatok illetve forgalmazó cégek számára. <br /><br/> Az események részét képező nyilvános előadásokkal szeretnénk közvetítő szerepet vállalni abban is, hogy Ön széleskörű és átfogó ismereteket szerezhessen a Bahreini Királyság és a térség gazdasági helyzetéről, a gazdasági ágazatok kilátásairól és az aktuális piaci trendekről egyaránt.",
+      "description-2": "Az egyéni stratégiai igényeknek megfelelő, személyre szabott – üzleti B2B találkozóink célja – a bahreini vagy térségbeli és a magyar szervezetek közötti sikeres tárgyalások, üzletkötések vagy szellemi tulajdonjogi licenciaszerződések létrejöttének széleskörű támogatása. <br /><br /> Felhívjuk szíves figyelmét arra, hogy rendezvényeink egy része az esemény volumenétől függően, részvételi díjköteles. <br /> <br /> További, részletes információért, kérjük, forduljon hozzánk bizalommal a megadott elérhetőségeinken!"
+    },
+    "networking": {
+      "title": "ÜZLETI NETWORKING ESEMÉNYEK",
+      "description": "Az üzleti networking események célja, hogy széleskörű lehetőséget nyújtson Önnek potenciális vásárlókkal, forgalmazókkal és partnerekkel való szakmai találkozásra, az aktuális piaci trendek megismerésére és az üzleti lehetőségek részletes felmérésére – formális és informális keretek biztosítása mellett. <br /><br /> Az események részvételi díja kizárólag a szükséges szervezési költségek fedezését szolgálja. További, részletes információért, kérjük, forduljon hozzánk bizalommal a megadott elérhetőségeinken!"
+    },
+    "countries": {
+      "title": "GCC ORSZÁGOK",
+      "description": "A Perzsa-öböl térségében található GCC-országok (Bahrein, Kuvait, Omán, Katar, Szaúd-Arábia, Egyesült Arab Emírségek) a világ legdinamikusabban fejlődő gazdaságai közé tartoznak. Az olaj-, és gázágazat a mai napig minden országban a GDP jelentős részét teszi ki, de az utóbbi években jelentős mértékű beruházások történtek a nem olajipari ágazatok, például az egészségügy, az infrastruktúra, az oktatás, a turizmus és a technológia terén. <br /> <br /> A gazdasági diverzifikáció és a szén-dioxid-semleges gazdaságra való áttérés mellett elkötelezett gazdasági stratégiáiknak megfelelően a GCC országok jelenleg kiemelt hangsúlyt fektetnek a fenntartható és tudásalapú iparágak fejlesztésére. <br /> <br /> Közös céljuk az erős regionális integráció elérése, ezért a hatékony gazdasági együttműködést olyan kezdeményezésekkel igyekeznek támogatni, mint a vámunió vagy az Öböl-menti Közös Piac, illetve az Európai Unió gyakorlatához hasonló, egységes termékengedélyeztetési eljárás, ami megkönnyíti a külföldi vállalkozások számára az áruk értékesítésének folyamatát és a térség szabályozási környezetében való eligazodást.",
+      "gcc": {
+        "bahrain": {
+          "title": "BAHREINI KIRÁLYSÁG",
+          "description": "A Bahreini Királyság dinamikusan fejlődő gazdasággal büszkélkedhet, ami jelenleg olyan kulcsfontosságú ágazatok fejlesztésére összpontosít, mint az infrastruktúra és a közlekedési rendszerek, a pénzügyi szolgáltatások, a feldolgozóipar és az idegenforgalom. <br /><br /> Az aktuális bahreini piaci trendek a technológiai ágazat jelentős növekedését mutatják, a közelmúltban számos startup-vállalkozás és innovációs központ jött létre az országban. A Bahreini Királyság fő gazdasági célkitűzései közé tartozik a fenntartható gazdasági növekedés elérése, a gazdaság diverzifikálása és az olajbevételektől való függőség csökkentése. <br /><br /> A Perzsa-öbölben való kedvező földrajzi elhelyezkedésének, a stabil politikai környezetnek, a kedvező adó-, és vállalkozástámogató rendszernek, illetve a jól képzett munkaerőnek köszönhetően a Bahreini Királyság fontos üzleti stratégiai csomópontot jelent a külföldi vállalkozások számára. <br /> <br /> A vállalkozási kedv támogatása érdekében az ország egyszerűbb és hatékonyabb, egyablakos, online cégbejegyzési és engedélyezési eljárást vezetett be, továbbá a Bahreini Gazdaságfejlesztési Tanács széleskörű jogi és adminisztratív támogatást nyújt a vállalkozásoknak, a kezdeti alapítástól a folyamatos működésig."
+        },
+        "kuwait": {
+          "title": "KUVAIT",
+          "description": "Kuvait gazdasága jelentős mértékben függ az olajexporttól, amely az ország GDP-jének mintegy 60%-át teszi ki. A New Kuwait Vision 2035 elnevezésű, gazdasági stratégiai terv elsődleges célja az olajbevételektől való függőség csökkentése és a gazdaság diverzifikálása, olyan kulcsfontosságú ágazatokba történő beruházásokkal, mint az egészségügy, az oktatás és a megújuló energiaforrások. <br /><br /> A jelenlegi kormány számos olyan innovatív kezdeményezést hajtott végre az üzleti környezet javítása és az induló vállalkozások támogatása érdekében, mint az e-kormányzati platform elindítása, az adminisztratív és a cégeljárások egyszerűsítése. <br /><br /> A Kuwait National Fund for SME’s Development (Kuvaiti Nemzeti Alap a KKV-k fejlesztésére) nevű kormányzati kezdeményezés pénzügyi támogatást és technikai segítséget is nyújt a kis-, és középvállalkozásoknak. Összességében véve a jól képzett munkaerővel és fejlett infrastruktúrával rendelkező Kuvait perzsa-öbölbeli, jó stratégiai elhelyezkedést és támogató, nyitott üzleti környezetet kínál a külföldi cégek számára."
+        },
+        "oman": {
+          "title": "OMÁN",
+          "description": "Az elmúlt években Omán komoly gazdasági kihívásokkal kellett, hogy szembenézzen a csökkenő olajárak-, és kitermelés miatt. Ezért a Bahreini Királysághoz és Kuvaithoz hasonlóan az ország fő gazdasági célkitűzései a fenntartható gazdasági növekedés elérése, a gazdaság diverzifikálása és az olajbevételektől való függőség csökkentése, többek között olyan ágazatokba történő befektetésekkel, mint a turizmus, a halászat és a logisztika. <br /> <br /> A megújuló energiaforrásokra való egyre nagyobb hangsúlyt fektetve Omán a bányászati és ásványi nyersanyagágazat (réz, krómit, gipsz) fejlesztési lehetőségeit is igyekszik bővíteni. <br /><br /> Az ország a közelmúltban zámos kedvező kormányzati intézkedést hajtott végre a külföldi vállalkozói tevékenység ösztönzésére az adókedvezményektől a finanszírozáshoz való hozzáférés szélesebb körben való biztosításán át az adminisztratív és cégeljárások egyszerűsítéséig."
+        },
+        "qatar": {
+          "title": "KATAR",
+          "description": "Katar Jelentős kőolaj-, és földgáztartalékokkal rendelkezik, és a világ egyik leggyorsabban növekvő gazdaságaként ma már magas jövedelmű országnak számít. A kormány jelenleg aktív erőfeszítéseket tesz a gazdaság diverzifikálására és a szénhidrogén-exporttól való függőség csökkentésére. <br /> <br /> A legfrissebb piaci mutatók a pénzügyi, az építőipari és az idegenforgalmi ágazatban folyamatos növekedést mutatnak. A 2022-es FIFA világbajnokságnak köszönhetően Katar jelentős infrastrukturális fejlesztéseket és beruházásokat vitt véghez az országban. <br /> <br /> A külföldi vállalkozói tevékenység ösztönzése céljából a közelmúltban számos olyan kormányzati intézkedés született, mint az egyszerűsített cégeljárási rendszer, az adómentesség, a földtámogatások vagy a szabad zónák."
+        },
+        "saudi": {
+          "title": "SZAÚD-ARÁBIA",
+          "description": "Szaúd-Arábia részvénypiaca (Tadawul) az elmúlt években a világ egyik legjobban teljesítő piaca volt. A kormány jelentős gazdasági reformokat hajtott végre, hogy diverzifikálja gazdaságát, és csökkentse az olajbevételektől való függőségét (az ország GDP-jének mintegy 40%-a) olyan ágazatok kiemelt fejlesztésével, mint a turizmus és a szórakoztatóipar. <br /> <br /> A Vision 2030 gazdasági stratégiai terv célja az ország Ázsiát, Európát és Afrikát összekötő, globális befektetési csomóponttá történő fejlesztése. <br /><br /> Szaúd-Arábia jól képzett munkaerővel rendelkezik, a külföldi vállalkozói kedv előmozdítására a közelmúltban különböző finanszírozási programokat indított el, egyszerűsítette az adminisztratív és cégeljárások folyamatát és több vállalkozástámogató központot is létrehozott."
+        },
+        "emirates": {
+          "title": "EGYESÜLT ARAB EMÍRSÉGEK (EAE)", 
+          "description": "Az Egyesült Arab Emírségek (EAE) diverzifikált, nyitott gazdasággal, fejlett infrastruktúrával és technológiával rendelkezik. Bár az olaj-, és gázágazat még mindig jelentős szerepet játszik az ország gazdasági életében,  a közelmúltban a kormány jelentős erőfeszítéseket tett a gazdaság diverzifikálása és az olajbevételektől való függőség csökkentése érdekében. <br /> <br /> Az Egyesült Arab Emírségek ambiciózus célokat tűzött ki a tudásalapú gazdaság fejlesztésére is, amely számos olyan kulcsfontosságú ágazatra összpontosít, mint a megújuló energia, az innovatív technológia, a turizmus és az egészségügy. <br /> <br /> Perzsa-öbölbeli kedvező stratégiai elhelyezkedésével és adórendszerével az Egyesült Arab Emírségek a külföldi vállalkozói tevékenység további ösztönzése céljából szintén egyszerűsített adminisztratív és cégeljárási rendszert vezetett be, továbbá szabad zónákat, innovációs központokat és vállalkozói inkubátorokat hozott létre."
+        }
+      }
+    },
+    "calendar": {
+      "title": "MÚLTBELI ÉS KÖZELGŐ ESEMÉNYEK",
+      "gallery": "KÉPTÁR"
+    },
+    "privacy": "Adatvédelmi tájékoztató",
+    "underConstruction": "Feltöltés alatt"
+  }
