@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import Nav from "../components/Nav";
 import { ScrollRestoration } from "react-router-dom";
-import GreenHidrogenEng from "../assets/research-and-development/infra_paper_hun.pdf";
+import GreenHidrogenEng from "../assets/research-and-development/green_hidrogen_hun.pdf";
 import GreenHidrogenHun from "../assets/research-and-development/green_hidrogen_hun.pdf";
 
 const GreenHidrogen = () => {

@@ -4,6 +4,8 @@ import { useNavigate } from "react-router-dom";
 interface INewsCard {
   thumbnail: string;
   id: number;
+  title?: string;
+  description?: string;
 }
 
 const NewsCard: React.FC<INewsCard> = ({ thumbnail, id }) => {
