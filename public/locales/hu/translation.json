@@ -10,7 +10,8 @@
         "forums": "Üzleti fórumok & B2B találkozók",
         "networking": "Üzleti networking események",
         "countries": "GCC Országok",
-        "calendar": "Eseménynaptár"
+        "calendar": "Eseménynaptár",
+        "r&d": "R&D"
     },
     "news": {
       "title": "Legfrissebb hírek"
@@ -97,6 +98,14 @@
     "calendar": {
       "title": "MÚLTBELI ÉS KÖZELGŐ ESEMÉNYEK",
       "gallery": "KÉPTÁR"
+    },
+    "r&d": {
+      "title": "Kutatás és fejlesztés",
+      "description": "Az innovatív tevékenységek megvalósítása a modern világban elengedhetetlen a vállalkozások fejlődéséhez, versenyhelyzetük megőrzéséhez. A mai világban az innováció kulcsfontosságú versenytényezővé válik mind a vállalkozások, mind az egész gazdaságok számára. A gazdasági fejlődés alapvető hajtóereje, valamint a vállalkozások versenyképességének és sikerének meghatározó tényezője. Az innováció többek között olyan előnyökkel jár, mint a fenntartható gazdasági és társadalmi növekedés, új iparágak létrehozása, egységes piaci tér kialakítása, költségcsökkentés, a termékek és szolgáltatások minőségének javítása. Az innováció szintjének emelése az egyik módja annak, hogy a vállalatok megbirkózzanak az üzleti környezet bizonytalanságával és megfeleljenek a piaci kihívásoknak.",
+      "infracheramy": "Infrakerámia",
+      "windEnergy": "Szél energia",
+      "greenHidrogen": "Zöld hidrogén",
+      "agriculture": "Mezőgazdaság"
     },
     "privacy": "Adatvédelmi tájékoztató",
     "underConstruction": "Feltöltés alatt"

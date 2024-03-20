@@ -14,6 +14,11 @@ import Countries from "./components/Countries";
 import Calendar from "./components/Calendar";
 import CookieConsent from "react-cookie-consent";
 import Privacy from "./pages/Privacy";
+import ResearchAndDevelopment from "./pages/ResearchAndDevelopment";
+import Infracheramy from "./pages/InfraCheramy";
+import WindEnergy from "./pages/WindEnergy";
+import Agriculture from "./pages/Agriculture";
+import GreenHidrogen from "./pages/GreenHidrogen";
 
 const router = createBrowserRouter([
   {
@@ -55,6 +60,26 @@ const router = createBrowserRouter([
   {
     path: "privacy",
     element: <Privacy />,
+  },
+  {
+    path: "research-and-development",
+    element: <ResearchAndDevelopment />,
+  },
+  {
+    path: "research-and-development/infracheramy",
+    element: <Infracheramy />,
+  },
+  {
+    path: "research-and-development/wind-energy",
+    element: <WindEnergy />,
+  },
+  {
+    path: "research-and-development/agriculture",
+    element: <Agriculture />,
+  },
+  {
+    path: "research-and-development/green-hidrogen",
+    element: <GreenHidrogen />,
   },
 ]);
 

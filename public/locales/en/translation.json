@@ -10,7 +10,8 @@
       "forums": "Business forum & B2B meeting",
       "networking": "Business network events",
       "countries": "GCC info",
-      "calendar": "Event calendar"
+      "calendar": "Event calendar",
+      "r&d": "R&D"
   },
   "news": {
     "title": "Latest news"
@@ -97,6 +98,14 @@
   "calendar": {
     "title": "PAST AND UPCOMING EVENTS",
     "gallery": "GALLERY"
+  },
+  "r&d": {
+    "title": "Research and development",
+    "description": "The implementation of innovative activities is essential in the modern world for the development of enterprises and for them to maintain their competitive position. In today's world, innovation is becoming a key competitive factor for both businesses and entire economies. It is a fundamental driver of economic development and a determinant of competitiveness and success of enterprises. Innovation brings such benefits as sustainable economic and social growth, creation of new industries, creation of a single market space, reduction of costs, improvement of product and service quality, among others. Raising the level of innovation is one way for companies to cope with uncertainty in the business environment and meet market challenges.",
+    "infracheramy": "Infracheramy",
+    "windEnergy": "Wind energy",
+    "greenHidrogen": "Green hidrogen",
+    "agriculture": "Agriculture"
   },
   "privacy": "Privacy policy",
   "underConstruction": "To be updated soon"

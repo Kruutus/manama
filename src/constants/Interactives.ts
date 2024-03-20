@@ -5,6 +5,7 @@ import {
   GlobeAltIcon,
   ListBulletIcon,
   CalendarIcon,
+  BeakerIcon,
 } from "@heroicons/react/24/outline";
 
 export const interactivesArray = [
@@ -37,5 +38,10 @@ export const interactivesArray = [
     Icon: CalendarIcon,
     description: "interactives.calendar",
     link: "/calendar",
+  },
+  {
+    Icon: BeakerIcon,
+    description: "interactives.r&d",
+    link: "/research-and-development",
   },
 ];
